@@ -1,0 +1,7 @@
+#!/bin/sh
+
+#sudo mount -o bind /dev base/dev
+sudo mount -o bind /sys base/sys
+sudo mount -o bind /proc base/proc
+sudo mount -o bind /run base/run
+
