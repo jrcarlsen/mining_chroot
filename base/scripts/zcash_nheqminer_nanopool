@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Pool: https://zec.nanopool.org/account/t1gX3z2ipdrfMEbNWBDtKgy26HhuQPQStv4"
+zcash_nheqminer -t 8 -l zec-eu1.nanopool.org:6666 -u t1gX3z2ipdrfMEbNWBDtKgy26HhuQPQStv4
