@@ -1,0 +1,6 @@
+#!/bin/sh
+
+zcash_optiminer -s zec-eu1.nanopool.org:6666 -u t1gX3z2ipdrfMEbNWBDtKgy26HhuQPQStv4 
+# --watchdog-timeout 40 --watchdog-cmd /home/usefree/restartminer.sh
+
+
